@@ -40,6 +40,7 @@
 - https://web.stanford.edu/class/cs97si/10-string-algorithms.pdf
 - https://systemcraft.in/dsa-fundamentals/stacks-queues/
 - https://seanprashad.com/leetcode-patterns/
+- https://www.youtube.com/watch?v=qases-9gOpk
 
 ## Grind
 
