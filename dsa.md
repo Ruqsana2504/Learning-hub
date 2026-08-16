@@ -49,3 +49,28 @@
 
 - https://hitarth-gg.github.io/visor-leetcode/
 - https://prachub.com/questions
+
+## Interview Roadmaps
+
+### SDE1 Preparation
+
+- Striver's A2Z DSA Sheet
+- Neetcode 150
+- Leetcode 150 Most Asked Interview Questions
+- Leetcode Top 100 Liked Questions
+
+### Advanced Topics
+
+- Dynamic Programming
+- Graphs
+- Tries
+
+### Playlists
+
+- Striver's Playlist
+
+### Company Questions
+
+- Google random asked questions from LeetCode Premium
+- Amazon random asked questions from LeetCode Premium
+- Microsoft random asked questions from LeetCode Premium
