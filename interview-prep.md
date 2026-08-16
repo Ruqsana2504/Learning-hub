@@ -1,5 +1,9 @@
 # Interview Preparation
 
+## OA & Interview Resources
+
+- [Amazon HackOn Questions](https://www.oahelper.in/company-questions/amazon-hackon)
+
 ## Mock Interviews
 
 - https://layrs.me/interviews
