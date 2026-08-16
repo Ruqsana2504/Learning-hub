@@ -25,10 +25,18 @@
 
 - https://newsletter.systemdesign.one/p/timsort-algorithm
 
-## Patterns
+## Design Patterns
 
-- 50 System Design Patterns
+- 50 System Design Patterns - substack
 
 ## Video Resources
 
 - Jordan Has No Life
+
+## Notes
+
+Follow Striver's
+
+## Kata Projects
+
+- https://kata-log.rocks/gilded-rose-kata
