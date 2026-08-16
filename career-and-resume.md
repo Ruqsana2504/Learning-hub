@@ -14,3 +14,8 @@
 ## Jobs
 
 - https://jobs.amazon.in/app#/jobDetail?jobId=JOB-IN-0000007857&locale=en-IN
+
+## Additional Resources
+
+- https://wiki.developersindia.in/community-guides/how-to-create-an-ideal-software-engineering-resume.html
+- https://writenow.in/
