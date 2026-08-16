@@ -76,6 +76,4 @@
 
 ### Company Questions
 
-- Google random asked questions from LeetCode Premium
-- Amazon random asked questions from LeetCode Premium
-- Microsoft random asked questions from LeetCode Premium
+- Google, Amazon, Microsoft random asked questions from LeetCode Premium
