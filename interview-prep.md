@@ -22,3 +22,14 @@
 ## Community Resources
 
 - https://github.com/dipjul/InterviewPrep
+
+## Company-Specific High-ROI Focus
+
+### Amazon
+- High focus on Two-Pointers, DFS, and BFS.
+
+### Meta
+- Emphasizes classic graph/tree traversal (DFS/BFS) and tricky array questions.
+
+### Google
+- Frequently tests Graphs, Dynamic Programming, and Monotonic Stacks.
