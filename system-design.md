@@ -28,6 +28,7 @@
 ## Design Patterns
 
 - 50 System Design Patterns - substack
+- https://lnkd.in/g7g_RcTv
 
 ## Video Resources
 
